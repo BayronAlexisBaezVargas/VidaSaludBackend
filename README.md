@@ -1,7 +1,3 @@
-¡Excelente! Aquí tienes el archivo README.md completo y profesional para tu repositorio. Incluye todas las especificaciones técnicas que definimos, la estructura del proyecto y, lo más importante, la documentación detallada de los endpoints usando tu link real de Render.
-
-Copia y pega el siguiente contenido en un archivo llamado README.md en la raíz de tu proyecto backend.
-
 VidaSalud Backend API
 Backend oficial para la aplicación móvil VidaSalud. Este servicio RESTful gestiona la autenticación de usuarios y el almacenamiento de publicaciones (comidas) con imágenes.
 
