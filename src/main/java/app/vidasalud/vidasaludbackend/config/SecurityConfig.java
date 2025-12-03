@@ -32,7 +32,7 @@ public class SecurityConfig {
                 // Añadimos nuestro filtro ANTES del filtro estándar de usuario/password
                 .addFilterBefore(jwtRequestFilter, UsernamePasswordAuthenticationFilter.class);
 
-        return http.build();
+        return http.build(); //
     }
 
     @Bean
